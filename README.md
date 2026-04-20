@@ -180,5 +180,3 @@ El codigo sigue las recomendaciones de estilo PEP 8.
 Las nuevas funcionalidades incluyen comentarios en espanol (idioma principal del proyecto).
 
 La aplicacion se ejecuta sin errores en una instalacion limpia.
-
-Licencia
