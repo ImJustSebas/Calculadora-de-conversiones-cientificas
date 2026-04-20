@@ -64,7 +64,7 @@ Herramienta de conversion de unidades disenada para laboratorios cientificos. Of
 ### Pasos
 1. Clone el repositorio:
    ```bash
-   git clone https://github.com/suusuario/conversor-cientifico.git
+   git clone https://github.com/imjustsebas/conversor-cientifico.git
    cd conversor-cientifico
 No se requieren dependencias externas. Todo se ejecuta con la biblioteca estandar de Python.
 
